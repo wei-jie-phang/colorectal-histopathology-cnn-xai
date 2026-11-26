@@ -1,0 +1,336 @@
+seed,index,image_path,true_label,mask_path,mask_found,gradcam_mask_iou
+42,0,../data/EBHI-SEG/Adenocarcinoma/image/GTxc2012822-1-400-005.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTxc2012822-1-400-005.png,True,0.4849956268661218
+42,1,../data/EBHI-SEG/Adenocarcinoma/image/GTxc2013512-1-400-013.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTxc2013512-1-400-013.png,True,0.77478892092257
+42,2,../data/EBHI-SEG/Polyp/image/GT2012154-2-400-002.png,4,../data/EBHI-SEG/Polyp/label/GT2012154-2-400-002.png,True,0.44643160887420114
+42,3,../data/EBHI-SEG/Adenocarcinoma/image/GTxc2013512-1-400-007.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTxc2013512-1-400-007.png,True,0.37277102910841164
+42,4,../data/EBHI-SEG/Polyp/image/GT2013118-2-400-001.png,4,../data/EBHI-SEG/Polyp/label/GT2013118-2-400-001.png,True,0.30935656083169427
+42,5,../data/EBHI-SEG/Adenocarcinoma/image/GTxc2013512-1-400-014.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTxc2013512-1-400-014.png,True,0.23328976034858387
+42,6,../data/EBHI-SEG/Adenocarcinoma/image/GTxc2012990-1-400-004.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTxc2012990-1-400-004.png,True,0.47256226726425404
+42,7,../data/EBHI-SEG/Adenocarcinoma/image/GT2016906-2-400-002.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GT2016906-2-400-002.png,True,0.3117030320204024
+42,8,../data/EBHI-SEG/Adenocarcinoma/image/GT2100009-1-400-002.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GT2100009-1-400-002.png,True,0.6642618975447105
+42,9,../data/EBHI-SEG/Polyp/image/GT2015103-1-400-001.png,4,../data/EBHI-SEG/Polyp/label/GT2015103-1-400-001.png,True,0.4663149058640125
+42,10,../data/EBHI-SEG/Adenocarcinoma/image/GT2012353-1-400-003.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GT2012353-1-400-003.png,True,0.6819436487682933
+42,11,../data/EBHI-SEG/Polyp/image/GTxc2012476-1-400-002.png,4,../data/EBHI-SEG/Polyp/label/GTxc2012476-1-400-002.png,True,0.3620864479920768
+42,12,../data/EBHI-SEG/Adenocarcinoma/image/GTxc2013451-1-400-004.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTxc2013451-1-400-004.png,True,0.08136549494437224
+42,13,../data/EBHI-SEG/Low-grade IN/image/GTDC2013013-2-400-001.png,2,../data/EBHI-SEG/Low-grade IN/label/GTDC2013013-2-400-001.png,True,0.5296938506973888
+42,14,../data/EBHI-SEG/Low-grade IN/image/GT2016757-2-400-001.png,2,../data/EBHI-SEG/Low-grade IN/label/GT2016757-2-400-001.png,True,0.42282285076293263
+42,15,../data/EBHI-SEG/Low-grade IN/image/GTXC2015335-3-400-002.png,2,../data/EBHI-SEG/Low-grade IN/label/GTXC2015335-3-400-002.png,True,0.6042146782485375
+42,16,../data/EBHI-SEG/Low-grade IN/image/GTXC2014153-2-400-004.png,2,../data/EBHI-SEG/Low-grade IN/label/GTXC2014153-2-400-004.png,True,0.6369810841690999
+42,17,../data/EBHI-SEG/Adenocarcinoma/image/GTxc2013496-1-400-008.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTxc2013496-1-400-008.png,True,0.5230468473985445
+42,18,../data/EBHI-SEG/Adenocarcinoma/image/GTxc2013496-4-400-009.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTxc2013496-4-400-009.png,True,0.4319878975151281
+42,19,../data/EBHI-SEG/High-grade IN/image/GTXC2015371-1-400-002.png,1,../data/EBHI-SEG/High-grade IN/label/GTXC2015371-1-400-002.png,True,0.4374439014660417
+42,20,../data/EBHI-SEG/Low-grade IN/image/GTxc2013495-1-400-004.png,2,../data/EBHI-SEG/Low-grade IN/label/GTxc2013495-1-400-004.png,True,0.4209287450428553
+42,21,../data/EBHI-SEG/Adenocarcinoma/image/GT2012329-1-400-003.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GT2012329-1-400-003.png,True,0.36964694697722655
+42,22,../data/EBHI-SEG/Low-grade IN/image/GT2012114-1-400-002.png,2,../data/EBHI-SEG/Low-grade IN/label/GT2012114-1-400-002.png,True,0.5150793839708647
+42,23,../data/EBHI-SEG/Polyp/image/GT2014677-1-400-001.png,4,../data/EBHI-SEG/Polyp/label/GT2014677-1-400-001.png,True,0.4275737071048816
+42,24,../data/EBHI-SEG/Low-grade IN/image/GT2012114-1-400-001.png,2,../data/EBHI-SEG/Low-grade IN/label/GT2012114-1-400-001.png,True,0.7286239882266372
+42,25,../data/EBHI-SEG/Adenocarcinoma/image/GTXC2015371-1-400-003.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTXC2015371-1-400-003.png,True,0.42600170753967087
+42,26,../data/EBHI-SEG/Polyp/image/GTxc2014077-1-400-005.png,4,../data/EBHI-SEG/Polyp/label/GTxc2014077-1-400-005.png,True,0.41608267015084927
+42,27,../data/EBHI-SEG/Adenocarcinoma/image/GTXC2015344-2-400-007.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTXC2015344-2-400-007.png,True,0.41638998275551437
+42,28,../data/EBHI-SEG/High-grade IN/image/GT2012149-3-400-007.png,1,../data/EBHI-SEG/High-grade IN/label/GT2012149-3-400-007.png,True,0.34998563080754863
+42,29,../data/EBHI-SEG/Adenocarcinoma/image/GTxc2012943-1-400-009.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTxc2012943-1-400-009.png,True,0.38282874971111625
+42,30,../data/EBHI-SEG/Low-grade IN/image/GTXC2100708-1-400-003.png,2,../data/EBHI-SEG/Low-grade IN/label/GTXC2100708-1-400-003.png,True,0.31632132897538157
+42,31,../data/EBHI-SEG/Adenocarcinoma/image/GTXC2014153-3-400-007.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTXC2014153-3-400-007.png,True,0.453251154222293
+42,32,../data/EBHI-SEG/Polyp/image/GTxc2012481-2-400-002.png,4,../data/EBHI-SEG/Polyp/label/GTxc2012481-2-400-002.png,True,0.3372482675602694
+42,33,../data/EBHI-SEG/Serrated adenoma/image/GTXC2014151-2-400-006.png,5,../data/EBHI-SEG/Serrated adenoma/label/GTXC2014151-2-400-006.png,True,0.40597942563223316
+42,34,../data/EBHI-SEG/Adenocarcinoma/image/GTXC2014153-3-400-001.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTXC2014153-3-400-001.png,True,0.461135934625218
+42,35,../data/EBHI-SEG/Adenocarcinoma/image/GTXC2015344-2-400-004.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTXC2015344-2-400-004.png,True,0.21628913662239088
+42,36,../data/EBHI-SEG/Low-grade IN/image/GTxc2012904-1-400-001.png,2,../data/EBHI-SEG/Low-grade IN/label/GTxc2012904-1-400-001.png,True,0.3627123462932689
+42,37,../data/EBHI-SEG/Polyp/image/GTXC2100763-1-400-001.png,4,../data/EBHI-SEG/Polyp/label/GTXC2100763-1-400-001.png,True,0.4205887365781208
+42,38,../data/EBHI-SEG/Low-grade IN/image/GT2012149-2-400-005.png,2,../data/EBHI-SEG/Low-grade IN/label/GT2012149-2-400-005.png,True,0.510536568089251
+42,39,../data/EBHI-SEG/Adenocarcinoma/image/GT2016781-1-400-002.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GT2016781-1-400-002.png,True,0.37139319174785634
+42,40,../data/EBHI-SEG/Polyp/image/GTXC2110572-1-400-002.png,4,../data/EBHI-SEG/Polyp/label/GTXC2110572-1-400-002.png,True,0.3270752154917936
+42,41,../data/EBHI-SEG/Normal/image/GT2013128-3-400-001.png,3,../data/EBHI-SEG/Normal/label/GT2013128-3-400-001.png,True,0.4915142648134601
+42,42,../data/EBHI-SEG/High-grade IN/image/GT2012275-4-400-005.png,1,../data/EBHI-SEG/High-grade IN/label/GT2012275-4-400-005.png,True,0.40585909500797707
+42,43,../data/EBHI-SEG/Adenocarcinoma/image/GTxc2013010-1-400-005.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTxc2013010-1-400-005.png,True,0.1478162778818321
+42,44,../data/EBHI-SEG/Polyp/image/GTxc2014077-1-400-007.png,4,../data/EBHI-SEG/Polyp/label/GTxc2014077-1-400-007.png,True,0.3904455901765922
+42,45,../data/EBHI-SEG/Polyp/image/GTXC2100737-1-400-006.png,4,../data/EBHI-SEG/Polyp/label/GTXC2100737-1-400-006.png,True,0.524874839770721
+42,46,../data/EBHI-SEG/Adenocarcinoma/image/GTxc2013496-3-400-002.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTxc2013496-3-400-002.png,True,0.36393034166512045
+42,47,../data/EBHI-SEG/Adenocarcinoma/image/GTxc2012481-3-400-003.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTxc2012481-3-400-003.png,True,0.26757929383602636
+42,48,../data/EBHI-SEG/Adenocarcinoma/image/GT2012358-2-400-004.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GT2012358-2-400-004.png,True,0.4694400630914827
+42,49,../data/EBHI-SEG/Normal/image/GTDC2100796-1-400-004.png,3,../data/EBHI-SEG/Normal/label/GTDC2100796-1-400-004.png,True,0.2913759874046527
+42,50,../data/EBHI-SEG/Low-grade IN/image/GTxc2012915-1-400-004.png,2,../data/EBHI-SEG/Low-grade IN/label/GTxc2012915-1-400-004.png,True,0.5244858204222161
+42,51,../data/EBHI-SEG/Adenocarcinoma/image/GT2012165-1-400-006.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GT2012165-1-400-006.png,True,0.3614919764371318
+42,52,../data/EBHI-SEG/High-grade IN/image/GT2012196-2-400-006.png,1,../data/EBHI-SEG/High-grade IN/label/GT2012196-2-400-006.png,True,0.57041383570105
+42,53,../data/EBHI-SEG/Adenocarcinoma/image/GTxc2013964-2-400-002.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTxc2013964-2-400-002.png,True,0.6538331907391564
+42,54,../data/EBHI-SEG/Adenocarcinoma/image/GT2100120-3-400-009.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GT2100120-3-400-009.png,True,0.4476635183416463
+42,55,../data/EBHI-SEG/Adenocarcinoma/image/GT2014822-1-400-002.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GT2014822-1-400-002.png,True,0.6469684604675724
+42,56,../data/EBHI-SEG/Adenocarcinoma/image/GT2015138-1-400-002.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GT2015138-1-400-002.png,True,0.5178356583097584
+42,57,../data/EBHI-SEG/Low-grade IN/image/GTXC2015362-4-400-001.png,2,../data/EBHI-SEG/Low-grade IN/label/GTXC2015362-4-400-001.png,True,0.5012051543524613
+42,58,../data/EBHI-SEG/Polyp/image/GT2012286-3-400-004.png,4,../data/EBHI-SEG/Polyp/label/GT2012286-3-400-004.png,True,0.2313546423135464
+42,59,../data/EBHI-SEG/Adenocarcinoma/image/GTXC2015354-1-400-002.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTXC2015354-1-400-002.png,True,0.5203978130179857
+42,60,../data/EBHI-SEG/High-grade IN/image/GT2014662-1-400-004.png,1,../data/EBHI-SEG/High-grade IN/label/GT2014662-1-400-004.png,True,0.6387717313033638
+42,61,../data/EBHI-SEG/Low-grade IN/image/GT2012197-2-400-004.png,2,../data/EBHI-SEG/Low-grade IN/label/GT2012197-2-400-004.png,True,0.528092801735317
+42,62,../data/EBHI-SEG/Low-grade IN/image/GTXC2015407-1-400-004.png,2,../data/EBHI-SEG/Low-grade IN/label/GTXC2015407-1-400-004.png,True,0.6465434129189588
+42,63,../data/EBHI-SEG/Polyp/image/GTXC2110531-1-400-010.png,4,../data/EBHI-SEG/Polyp/label/GTXC2110531-1-400-010.png,True,0.2379154803416616
+42,64,../data/EBHI-SEG/Adenocarcinoma/image/GTXC2013391-1-400-007.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTXC2013391-1-400-007.png,True,0.5161086384786567
+42,65,../data/EBHI-SEG/Adenocarcinoma/image/GTxc2013392-2-400-002.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTxc2013392-2-400-002.png,True,0.4616956574625958
+42,66,../data/EBHI-SEG/Polyp/image/GTxc2013996-1-400-002.png,4,../data/EBHI-SEG/Polyp/label/GTxc2013996-1-400-002.png,True,0.5232902717970088
+42,67,../data/EBHI-SEG/Polyp/image/GTXC2110491-1-400-008.png,4,../data/EBHI-SEG/Polyp/label/GTXC2110491-1-400-008.png,True,0.2657474600870827
+42,68,../data/EBHI-SEG/Serrated adenoma/image/GT2016855-1-400-001.png,5,../data/EBHI-SEG/Serrated adenoma/label/GT2016855-1-400-001.png,True,0.21985923723861067
+42,69,../data/EBHI-SEG/Adenocarcinoma/image/GT2016841-2-400-003.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GT2016841-2-400-003.png,True,0.6483964301723787
+42,70,../data/EBHI-SEG/Polyp/image/GTxc2013391-1-400-003.png,4,../data/EBHI-SEG/Polyp/label/GTxc2013391-1-400-003.png,True,0.39403216860787577
+42,71,../data/EBHI-SEG/Normal/image/GT2012915-1-400-004.png,3,../data/EBHI-SEG/Normal/label/GT2012915-1-400-004.png,True,0.41123030830192325
+42,72,../data/EBHI-SEG/Low-grade IN/image/GTxc2013501-2-400-001.png,2,../data/EBHI-SEG/Low-grade IN/label/GTxc2013501-2-400-001.png,True,0.5763435521906417
+42,73,../data/EBHI-SEG/Adenocarcinoma/image/GT2013118-1-400-002.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GT2013118-1-400-002.png,True,0.41056606462185175
+42,74,../data/EBHI-SEG/Low-grade IN/image/GTXC2014139-4-400-004.png,2,../data/EBHI-SEG/Low-grade IN/label/GTXC2014139-4-400-004.png,True,0.4945091673032849
+42,75,../data/EBHI-SEG/High-grade IN/image/GTXC2110585-1-400-005.png,1,../data/EBHI-SEG/High-grade IN/label/GTXC2110585-1-400-005.png,True,0.3431619256017506
+42,76,../data/EBHI-SEG/Adenocarcinoma/image/GTXC2015349-2-400-003.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTXC2015349-2-400-003.png,True,0.4853231906481004
+42,77,../data/EBHI-SEG/Adenocarcinoma/image/GTXC2015426-1-400-002.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTXC2015426-1-400-002.png,True,0.36059938298810046
+42,78,../data/EBHI-SEG/Polyp/image/GT2012217-1-400-002.png,4,../data/EBHI-SEG/Polyp/label/GT2012217-1-400-002.png,True,0.43954870334364815
+42,79,../data/EBHI-SEG/Normal/image/GTDC2100796-1-400-005.png,3,../data/EBHI-SEG/Normal/label/GTDC2100796-1-400-005.png,True,0.4507835632266917
+42,80,../data/EBHI-SEG/Adenocarcinoma/image/GT2016770-1-400-001.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GT2016770-1-400-001.png,True,0.40301412872841447
+42,81,../data/EBHI-SEG/Low-grade IN/image/GT1815555-6-400-001.png,2,../data/EBHI-SEG/Low-grade IN/label/GT1815555-6-400-001.png,True,0.5082896811269898
+42,82,../data/EBHI-SEG/Low-grade IN/image/GTxc2012839-4-400-004.png,2,../data/EBHI-SEG/Low-grade IN/label/GTxc2012839-4-400-004.png,True,0.5266817593790427
+42,83,../data/EBHI-SEG/Low-grade IN/image/GTxc2012829-1-400-004.png,2,../data/EBHI-SEG/Low-grade IN/label/GTxc2012829-1-400-004.png,True,0.6600291082296904
+42,84,../data/EBHI-SEG/Adenocarcinoma/image/GTxc2013512-1-400-021.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTxc2013512-1-400-021.png,True,0.43594985009539383
+42,85,../data/EBHI-SEG/Adenocarcinoma/image/GT2013152-2-400-001.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GT2013152-2-400-001.png,True,0.41789465729615355
+42,86,../data/EBHI-SEG/High-grade IN/image/GTxc2012779-4-400-004.png,1,../data/EBHI-SEG/High-grade IN/label/GTxc2012779-4-400-004.png,True,0.30510856782261997
+42,87,../data/EBHI-SEG/Polyp/image/GTXC2110491-4-400-001.png,4,../data/EBHI-SEG/Polyp/label/GTXC2110491-4-400-001.png,True,0.3967810185884842
+42,88,../data/EBHI-SEG/Adenocarcinoma/image/GT2012219-1-400-003.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GT2012219-1-400-003.png,True,0.47543919719756633
+42,89,../data/EBHI-SEG/Normal/image/GTDC2100796-1-400-002.png,3,../data/EBHI-SEG/Normal/label/GTDC2100796-1-400-002.png,True,0.3799223371817258
+42,90,../data/EBHI-SEG/Low-grade IN/image/GTXC2014146-2-400-002.png,2,../data/EBHI-SEG/Low-grade IN/label/GTXC2014146-2-400-002.png,True,0.5097805749277088
+42,91,../data/EBHI-SEG/Low-grade IN/image/GT2013112-1-400-001.png,2,../data/EBHI-SEG/Low-grade IN/label/GT2013112-1-400-001.png,True,0.3038556585975075
+42,92,../data/EBHI-SEG/Adenocarcinoma/image/GT2012165-1-400-004.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GT2012165-1-400-004.png,True,0.3502934883976082
+42,93,../data/EBHI-SEG/Low-grade IN/image/GTXC2015407-1-400-003.png,2,../data/EBHI-SEG/Low-grade IN/label/GTXC2015407-1-400-003.png,True,0.2393345085940943
+42,94,../data/EBHI-SEG/Adenocarcinoma/image/GT2001837-1-400-002.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GT2001837-1-400-002.png,True,0.466786355475763
+42,95,../data/EBHI-SEG/Low-grade IN/image/GTXC2014194-1-400-002.png,2,../data/EBHI-SEG/Low-grade IN/label/GTXC2014194-1-400-002.png,True,0.3005116685386247
+42,96,../data/EBHI-SEG/Serrated adenoma/image/GT2013145-1-400-001.png,5,../data/EBHI-SEG/Serrated adenoma/label/GT2013145-1-400-001.png,True,0.3382467677218012
+42,97,../data/EBHI-SEG/Adenocarcinoma/image/GTxc2012888-1-400-002.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTxc2012888-1-400-002.png,True,0.634879489544129
+42,98,../data/EBHI-SEG/Low-grade IN/image/GTXC2012096-3-400-002.png,2,../data/EBHI-SEG/Low-grade IN/label/GTXC2012096-3-400-002.png,True,0.5749118300169809
+42,99,../data/EBHI-SEG/Polyp/image/GTXC2110503-1-400-006.png,4,../data/EBHI-SEG/Polyp/label/GTXC2110503-1-400-006.png,True,0.38087068410894276
+42,100,../data/EBHI-SEG/High-grade IN/image/GTxc2012779-4-400-002.png,1,../data/EBHI-SEG/High-grade IN/label/GTxc2012779-4-400-002.png,True,0.4377231257437525
+42,101,../data/EBHI-SEG/Polyp/image/GTXC2110529-3-400-010.png,4,../data/EBHI-SEG/Polyp/label/GTXC2110529-3-400-010.png,True,0.36407384032817924
+42,102,../data/EBHI-SEG/Low-grade IN/image/GTxc2012796-1-400-001.png,2,../data/EBHI-SEG/Low-grade IN/label/GTxc2012796-1-400-001.png,True,0.4156445377750203
+42,103,../data/EBHI-SEG/Low-grade IN/image/GT2014780-3-400-001.png,2,../data/EBHI-SEG/Low-grade IN/label/GT2014780-3-400-001.png,True,0.7286171475765241
+42,104,../data/EBHI-SEG/Adenocarcinoma/image/GTXC2015362-9-400-006.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTXC2015362-9-400-006.png,True,0.6910476671719724
+42,105,../data/EBHI-SEG/Low-grade IN/image/GTXC2014192-2-400-001.png,2,../data/EBHI-SEG/Low-grade IN/label/GTXC2014192-2-400-001.png,True,0.43147958909266926
+42,106,../data/EBHI-SEG/Adenocarcinoma/image/GT2012353-1-400-007.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GT2012353-1-400-007.png,True,0.6811437403400309
+42,107,../data/EBHI-SEG/Low-grade IN/image/GTxc2013400-2-400-002.png,2,../data/EBHI-SEG/Low-grade IN/label/GTxc2013400-2-400-002.png,True,0.31731500668887547
+42,108,../data/EBHI-SEG/Adenocarcinoma/image/GTxc2013010-1-400-002.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTxc2013010-1-400-002.png,True,0.45045375752013866
+42,109,../data/EBHI-SEG/Low-grade IN/image/GTxc2012803-1-400-004.png,2,../data/EBHI-SEG/Low-grade IN/label/GTxc2012803-1-400-004.png,True,0.5037382466989381
+42,110,../data/EBHI-SEG/Low-grade IN/image/GTxc2013066-2-400-001.png,2,../data/EBHI-SEG/Low-grade IN/label/GTxc2013066-2-400-001.png,True,0.657088122605364
+42,111,../data/EBHI-SEG/Polyp/image/GT2106134-1-400-001.png,4,../data/EBHI-SEG/Polyp/label/GT2106134-1-400-001.png,True,0.3947052547345959
+42,112,../data/EBHI-SEG/Low-grade IN/image/GTxc2012529-1-400-001.png,2,../data/EBHI-SEG/Low-grade IN/label/GTxc2012529-1-400-001.png,True,0.4766656084176153
+42,113,../data/EBHI-SEG/Adenocarcinoma/image/GTxc2012888-1-400-014.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTxc2012888-1-400-014.png,True,0.5684201012292118
+42,114,../data/EBHI-SEG/Polyp/image/GTXC2110530-1-400-004.png,4,../data/EBHI-SEG/Polyp/label/GTXC2110530-1-400-004.png,True,0.4683857488453926
+42,115,../data/EBHI-SEG/Adenocarcinoma/image/GTxc2013512-1-400-001.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTxc2013512-1-400-001.png,True,0.6227979274611399
+42,116,../data/EBHI-SEG/Adenocarcinoma/image/GTxc2012946-2-400-015.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTxc2012946-2-400-015.png,True,0.40296797708929966
+42,117,../data/EBHI-SEG/Adenocarcinoma/image/GTxc2013962-1-400-003.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTxc2013962-1-400-003.png,True,0.5648954405210833
+42,118,../data/EBHI-SEG/Low-grade IN/image/GT2012275-1-400-004.png,2,../data/EBHI-SEG/Low-grade IN/label/GT2012275-1-400-004.png,True,0.5184022279255174
+42,119,../data/EBHI-SEG/Low-grade IN/image/GTxc2014080-2-400-001.png,2,../data/EBHI-SEG/Low-grade IN/label/GTxc2014080-2-400-001.png,True,0.549881667576916
+42,120,../data/EBHI-SEG/Polyp/image/GTXC2110531-1-400-004.png,4,../data/EBHI-SEG/Polyp/label/GTXC2110531-1-400-004.png,True,0.3537561241154056
+42,121,../data/EBHI-SEG/Adenocarcinoma/image/GT2016848-1-400-002.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GT2016848-1-400-002.png,True,0.31428142492547234
+42,122,../data/EBHI-SEG/Polyp/image/GTXC2100728-1-400-005.png,4,../data/EBHI-SEG/Polyp/label/GTXC2100728-1-400-005.png,True,0.48826752500061427
+42,123,../data/EBHI-SEG/High-grade IN/image/GTXC2110128-3-400-002.png,1,../data/EBHI-SEG/High-grade IN/label/GTXC2110128-3-400-002.png,True,0.31527106198991994
+42,124,../data/EBHI-SEG/Adenocarcinoma/image/GTxc2013392-2-400-001.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTxc2013392-2-400-001.png,True,0.6031259365130593
+42,125,../data/EBHI-SEG/Low-grade IN/image/GTxc2014094-1-400-004.png,2,../data/EBHI-SEG/Low-grade IN/label/GTxc2014094-1-400-004.png,True,0.5454358816434419
+42,126,../data/EBHI-SEG/Adenocarcinoma/image/GT2012358-2-400-008.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GT2012358-2-400-008.png,True,0.5235971860632582
+42,127,../data/EBHI-SEG/Normal/image/GT2017148-2-400-007.png,3,../data/EBHI-SEG/Normal/label/GT2017148-2-400-007.png,True,0.410822499937137
+42,128,../data/EBHI-SEG/Polyp/image/GTXC2110529-3-400-004.png,4,../data/EBHI-SEG/Polyp/label/GTXC2110529-3-400-004.png,True,0.43596037326964754
+42,129,../data/EBHI-SEG/High-grade IN/image/GTxc2012829-2-400-003.png,1,../data/EBHI-SEG/High-grade IN/label/GTxc2012829-2-400-003.png,True,0.400636502006365
+42,130,../data/EBHI-SEG/Adenocarcinoma/image/GTXC2013386-1-400-005.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTXC2013386-1-400-005.png,True,0.37649473852040816
+42,131,../data/EBHI-SEG/Low-grade IN/image/GTXC2015383-3-400-001.png,2,../data/EBHI-SEG/Low-grade IN/label/GTXC2015383-3-400-001.png,True,0.43824136771838834
+42,132,../data/EBHI-SEG/Adenocarcinoma/image/GTxc2013489-1-400-005.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTxc2013489-1-400-005.png,True,0.30849133895131087
+42,133,../data/EBHI-SEG/High-grade IN/image/GT2100093-4-400-002.png,1,../data/EBHI-SEG/High-grade IN/label/GT2100093-4-400-002.png,True,0.5029784468753384
+42,134,../data/EBHI-SEG/Polyp/image/GTXC2014184-1-400-004.png,4,../data/EBHI-SEG/Polyp/label/GTXC2014184-1-400-004.png,True,0.44404986777483946
+42,135,../data/EBHI-SEG/Low-grade IN/image/GTXC2015407-1-400-005.png,2,../data/EBHI-SEG/Low-grade IN/label/GTXC2015407-1-400-005.png,True,0.38904384342975334
+42,136,../data/EBHI-SEG/Low-grade IN/image/GTXC2014146-1-400-003.png,2,../data/EBHI-SEG/Low-grade IN/label/GTXC2014146-1-400-003.png,True,0.512094817236711
+42,137,../data/EBHI-SEG/Adenocarcinoma/image/GTXC2110135-1-400-004.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTXC2110135-1-400-004.png,True,0.4721120186697783
+42,138,../data/EBHI-SEG/Polyp/image/GT2013356-2-400-001.png,4,../data/EBHI-SEG/Polyp/label/GT2013356-2-400-001.png,True,0.34447337144150775
+42,139,../data/EBHI-SEG/Polyp/image/GTXC2100763-1-400-002.png,4,../data/EBHI-SEG/Polyp/label/GTXC2100763-1-400-002.png,True,0.45823695708044204
+42,140,../data/EBHI-SEG/Low-grade IN/image/GTXC2012096-2-400-007.png,2,../data/EBHI-SEG/Low-grade IN/label/GTXC2012096-2-400-007.png,True,0.3775200300812773
+42,141,../data/EBHI-SEG/Adenocarcinoma/image/GT2016841-2-400-002.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GT2016841-2-400-002.png,True,0.28712847782736683
+42,142,../data/EBHI-SEG/Adenocarcinoma/image/GT2016906-2-400-005.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GT2016906-2-400-005.png,True,0.21738780114414633
+42,143,../data/EBHI-SEG/Adenocarcinoma/image/GT2001849-1-400-005.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GT2001849-1-400-005.png,True,0.46460040667940106
+42,144,../data/EBHI-SEG/Polyp/image/GT2016798-1-400-001.png,4,../data/EBHI-SEG/Polyp/label/GT2016798-1-400-001.png,True,0.23057248966435429
+42,145,../data/EBHI-SEG/Low-grade IN/image/GTxc2012921-1-400-004.png,2,../data/EBHI-SEG/Low-grade IN/label/GTxc2012921-1-400-004.png,True,0.6239567115036116
+42,146,../data/EBHI-SEG/Adenocarcinoma/image/GTxc2013450-1-400-002.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTxc2013450-1-400-002.png,True,0.6117485302484355
+42,147,../data/EBHI-SEG/Polyp/image/GTXC2100798-1-400-007.png,4,../data/EBHI-SEG/Polyp/label/GTXC2100798-1-400-007.png,True,0.5810331572551646
+42,148,../data/EBHI-SEG/Polyp/image/GT2017275-1-400-001.png,4,../data/EBHI-SEG/Polyp/label/GT2017275-1-400-001.png,True,0.35602822269145595
+42,149,../data/EBHI-SEG/Low-grade IN/image/GTXC2014194-2-400-006.png,2,../data/EBHI-SEG/Low-grade IN/label/GTXC2014194-2-400-006.png,True,0.4022686369233684
+42,150,../data/EBHI-SEG/Low-grade IN/image/GTXC2015383-4-400-001.png,2,../data/EBHI-SEG/Low-grade IN/label/GTXC2015383-4-400-001.png,True,0.4113076238815342
+42,151,../data/EBHI-SEG/Adenocarcinoma/image/GTxc2014131-3-400-004.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTxc2014131-3-400-004.png,True,0.49264976958525347
+42,152,../data/EBHI-SEG/Low-grade IN/image/GTXC2012096-2-400-003.png,2,../data/EBHI-SEG/Low-grade IN/label/GTXC2012096-2-400-003.png,True,0.5635137206806684
+42,153,../data/EBHI-SEG/Low-grade IN/image/GT2100093-1-400-001.png,2,../data/EBHI-SEG/Low-grade IN/label/GT2100093-1-400-001.png,True,0.6052383687535899
+42,154,../data/EBHI-SEG/Low-grade IN/image/GTXC2110125-1-400-003.png,2,../data/EBHI-SEG/Low-grade IN/label/GTXC2110125-1-400-003.png,True,0.3629038546513139
+42,155,../data/EBHI-SEG/Polyp/image/GTXC2013066-1-400-006.png,4,../data/EBHI-SEG/Polyp/label/GTXC2013066-1-400-006.png,True,0.43458280547482425
+42,156,../data/EBHI-SEG/Polyp/image/GTXC2100474-1-400-004.png,4,../data/EBHI-SEG/Polyp/label/GTXC2100474-1-400-004.png,True,0.5564644995110782
+42,157,../data/EBHI-SEG/Polyp/image/GTXC2100763-1-400-006.png,4,../data/EBHI-SEG/Polyp/label/GTXC2100763-1-400-006.png,True,0.3166293770385745
+42,158,../data/EBHI-SEG/Adenocarcinoma/image/GT2001838-1-400-004.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GT2001838-1-400-004.png,True,0.29871867079695863
+42,159,../data/EBHI-SEG/Adenocarcinoma/image/GTdc2102643-1-400-001.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTdc2102643-1-400-001.png,True,0.5980817883170335
+42,160,../data/EBHI-SEG/Adenocarcinoma/image/GTXC2015371-1-400-001.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTXC2015371-1-400-001.png,True,0.48508822401227464
+42,161,../data/EBHI-SEG/Adenocarcinoma/image/GT2016893-1-400-004.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GT2016893-1-400-004.png,True,0.2713343396538533
+42,162,../data/EBHI-SEG/Adenocarcinoma/image/GTxc2012822-1-400-006.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTxc2012822-1-400-006.png,True,0.6556116797376933
+42,163,../data/EBHI-SEG/Low-grade IN/image/GTXC2014139-6-400-003.png,2,../data/EBHI-SEG/Low-grade IN/label/GTXC2014139-6-400-003.png,True,0.34949769209883247
+42,164,../data/EBHI-SEG/Low-grade IN/image/GTxc2013066-2-400-003.png,2,../data/EBHI-SEG/Low-grade IN/label/GTxc2013066-2-400-003.png,True,0.6178187690205578
+42,165,../data/EBHI-SEG/Low-grade IN/image/GTXC2014146-2-400-004.png,2,../data/EBHI-SEG/Low-grade IN/label/GTXC2014146-2-400-004.png,True,0.4871005971101691
+42,166,../data/EBHI-SEG/Low-grade IN/image/GTxc2012967-1-400-001.png,2,../data/EBHI-SEG/Low-grade IN/label/GTxc2012967-1-400-001.png,True,0.643352282267156
+42,167,../data/EBHI-SEG/Polyp/image/GTXC2110163-1-400-003.png,4,../data/EBHI-SEG/Polyp/label/GTXC2110163-1-400-003.png,True,0.4148435902678389
+42,168,../data/EBHI-SEG/Low-grade IN/image/GTXC2015381-1-400-002.png,2,../data/EBHI-SEG/Low-grade IN/label/GTXC2015381-1-400-002.png,True,0.3889453786989962
+42,169,../data/EBHI-SEG/Adenocarcinoma/image/GTXC2110135-1-400-005.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTXC2110135-1-400-005.png,True,0.353803551066949
+42,170,../data/EBHI-SEG/Polyp/image/GTXC2100772-1-400-003.png,4,../data/EBHI-SEG/Polyp/label/GTXC2100772-1-400-003.png,True,0.36839812697375585
+42,171,../data/EBHI-SEG/Low-grade IN/image/GTXC2014144-2-400-004.png,2,../data/EBHI-SEG/Low-grade IN/label/GTXC2014144-2-400-004.png,True,0.5581952552897108
+42,172,../data/EBHI-SEG/Adenocarcinoma/image/GT2014789-2-400-006.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GT2014789-2-400-006.png,True,0.40057859209257474
+42,173,../data/EBHI-SEG/Low-grade IN/image/GTxc2012921-1-400-003.png,2,../data/EBHI-SEG/Low-grade IN/label/GTxc2012921-1-400-003.png,True,0.6249373187694857
+42,174,../data/EBHI-SEG/High-grade IN/image/GTxc2014131-2-400-003.png,1,../data/EBHI-SEG/High-grade IN/label/GTxc2014131-2-400-003.png,True,0.5191987499679808
+42,175,../data/EBHI-SEG/Adenocarcinoma/image/GT2016848-1-400-001.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GT2016848-1-400-001.png,True,0.584287059315828
+42,176,../data/EBHI-SEG/Adenocarcinoma/image/GT2012165-1-400-002.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GT2012165-1-400-002.png,True,0.306557195162543
+42,177,../data/EBHI-SEG/Low-grade IN/image/GTxc2013942-2-400-002.png,2,../data/EBHI-SEG/Low-grade IN/label/GTxc2013942-2-400-002.png,True,0.6858225581443771
+42,178,../data/EBHI-SEG/High-grade IN/image/GT2012156-2-400-004.png,1,../data/EBHI-SEG/High-grade IN/label/GT2012156-2-400-004.png,True,0.5344758296015616
+42,179,../data/EBHI-SEG/Polyp/image/GTxc2014097-1-400-002.png,4,../data/EBHI-SEG/Polyp/label/GTxc2014097-1-400-002.png,True,0.4200405346716209
+42,180,../data/EBHI-SEG/Normal/image/GT2100256-7-400-002.png,3,../data/EBHI-SEG/Normal/label/GT2100256-7-400-002.png,True,0.3844044603452328
+42,181,../data/EBHI-SEG/Adenocarcinoma/image/GTxc2013496-2-400-007.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTxc2013496-2-400-007.png,True,0.6605803158507759
+42,182,../data/EBHI-SEG/Low-grade IN/image/GTxc2012852-2-400-002.png,2,../data/EBHI-SEG/Low-grade IN/label/GTxc2012852-2-400-002.png,True,0.5051891841578628
+42,183,../data/EBHI-SEG/Adenocarcinoma/image/GTxc2013512-1-400-002.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTxc2013512-1-400-002.png,True,0.4032258064516129
+42,184,../data/EBHI-SEG/Low-grade IN/image/GTxc2013458-2-400-001.png,2,../data/EBHI-SEG/Low-grade IN/label/GTxc2013458-2-400-001.png,True,0.4416178979419958
+42,185,../data/EBHI-SEG/Serrated adenoma/image/GT2016855-1-400-002.png,5,../data/EBHI-SEG/Serrated adenoma/label/GT2016855-1-400-002.png,True,0.28756776373987797
+42,186,../data/EBHI-SEG/Low-grade IN/image/GT2012246-1-400-002.png,2,../data/EBHI-SEG/Low-grade IN/label/GT2012246-1-400-002.png,True,0.518276612810817
+42,187,../data/EBHI-SEG/Low-grade IN/image/GTxc2012915-1-400-003.png,2,../data/EBHI-SEG/Low-grade IN/label/GTxc2012915-1-400-003.png,True,0.4974480239745271
+42,188,../data/EBHI-SEG/Adenocarcinoma/image/GT2012329-1-400-005.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GT2012329-1-400-005.png,True,0.2770974951112767
+42,189,../data/EBHI-SEG/Low-grade IN/image/GTxc2013946-1-400-001.png,2,../data/EBHI-SEG/Low-grade IN/label/GTxc2013946-1-400-001.png,True,0.6020995369329677
+42,190,../data/EBHI-SEG/Low-grade IN/image/GTXC2014194-2-400-003.png,2,../data/EBHI-SEG/Low-grade IN/label/GTXC2014194-2-400-003.png,True,0.3967768950453815
+42,191,../data/EBHI-SEG/Low-grade IN/image/GTxc2014102-1-400-003.png,2,../data/EBHI-SEG/Low-grade IN/label/GTxc2014102-1-400-003.png,True,0.49262120651369357
+42,192,../data/EBHI-SEG/Adenocarcinoma/image/GTxc2013512-2-400-002.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTxc2013512-2-400-002.png,True,0.4556652324306083
+42,193,../data/EBHI-SEG/Low-grade IN/image/GT2014736-1-400-003.png,2,../data/EBHI-SEG/Low-grade IN/label/GT2014736-1-400-003.png,True,0.4721756746617312
+42,194,../data/EBHI-SEG/Low-grade IN/image/GTXC2015425-1-400-001.png,2,../data/EBHI-SEG/Low-grade IN/label/GTXC2015425-1-400-001.png,True,0.5821599687102768
+42,195,../data/EBHI-SEG/Polyp/image/GTXC2110491-3-400-007.png,4,../data/EBHI-SEG/Polyp/label/GTXC2110491-3-400-007.png,True,0.39125189383311826
+42,196,../data/EBHI-SEG/Low-grade IN/image/GTXC2015362-5-400-002.png,2,../data/EBHI-SEG/Low-grade IN/label/GTXC2015362-5-400-002.png,True,0.6989165396986626
+42,197,../data/EBHI-SEG/Polyp/image/GTxc2012796-2-400-004.png,4,../data/EBHI-SEG/Polyp/label/GTxc2012796-2-400-004.png,True,0.3730531686358754
+42,198,../data/EBHI-SEG/Adenocarcinoma/image/GTXC2015344-2-400-006.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTXC2015344-2-400-006.png,True,0.42777981203466375
+42,199,../data/EBHI-SEG/Low-grade IN/image/GT2013123-1-400-001.png,2,../data/EBHI-SEG/Low-grade IN/label/GT2013123-1-400-001.png,True,0.5534315709286548
+42,200,../data/EBHI-SEG/Polyp/image/GT2012154-2-400-004.png,4,../data/EBHI-SEG/Polyp/label/GT2012154-2-400-004.png,True,0.25392200806813087
+42,201,../data/EBHI-SEG/Low-grade IN/image/GT2014094-1-400-001.png,2,../data/EBHI-SEG/Low-grade IN/label/GT2014094-1-400-001.png,True,0.5569514648868823
+42,202,../data/EBHI-SEG/Adenocarcinoma/image/GT2001849-1-400-011.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GT2001849-1-400-011.png,True,0.4892585529490155
+42,203,../data/EBHI-SEG/Low-grade IN/image/GT1815635-1-400-001.png,2,../data/EBHI-SEG/Low-grade IN/label/GT1815635-1-400-001.png,True,0.624809036618675
+42,204,../data/EBHI-SEG/Low-grade IN/image/GT2014789-1-400-002.png,2,../data/EBHI-SEG/Low-grade IN/label/GT2014789-1-400-002.png,True,0.4453069542717135
+42,205,../data/EBHI-SEG/Adenocarcinoma/image/GTXC2110135-2-400-002.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTXC2110135-2-400-002.png,True,0.3409366118868158
+42,206,../data/EBHI-SEG/Normal/image/GT2012915-1-400-002.png,3,../data/EBHI-SEG/Normal/label/GT2012915-1-400-002.png,True,0.3813182974901452
+42,207,../data/EBHI-SEG/Low-grade IN/image/GTxc2014080-1-400-005.png,2,../data/EBHI-SEG/Low-grade IN/label/GTxc2014080-1-400-005.png,True,0.49749167799709315
+42,208,../data/EBHI-SEG/Adenocarcinoma/image/GT2016846-4-400-002.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GT2016846-4-400-002.png,True,0.3265902108113041
+42,209,../data/EBHI-SEG/Normal/image/GT2000000-1-400-006.png,3,../data/EBHI-SEG/Normal/label/GT2000000-1-400-006.png,True,0.4082406044075406
+42,210,../data/EBHI-SEG/Serrated adenoma/image/GT2014848-1-400-001.png,5,../data/EBHI-SEG/Serrated adenoma/label/GT2014848-1-400-001.png,True,0.5989730927863977
+42,211,../data/EBHI-SEG/Low-grade IN/image/GTxc2110131-1-400-004.png,2,../data/EBHI-SEG/Low-grade IN/label/GTxc2110131-1-400-004.png,True,0.5260050834950395
+42,212,../data/EBHI-SEG/Normal/image/GTDC2100796-1-400-001.png,3,../data/EBHI-SEG/Normal/label/GTDC2100796-1-400-001.png,True,0.3954668156008564
+42,213,../data/EBHI-SEG/Low-grade IN/image/GT2012175-1-400-001.png,2,../data/EBHI-SEG/Low-grade IN/label/GT2012175-1-400-001.png,True,0.491226866149658
+42,214,../data/EBHI-SEG/Adenocarcinoma/image/GTDC2100277-1-400-003.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTDC2100277-1-400-003.png,True,0.3483674429065037
+42,215,../data/EBHI-SEG/Adenocarcinoma/image/GTxc2013965-1-400-001.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTxc2013965-1-400-001.png,True,0.5021026864172734
+42,216,../data/EBHI-SEG/Low-grade IN/image/GTxc2014144-1-400-002.png,2,../data/EBHI-SEG/Low-grade IN/label/GTxc2014144-1-400-002.png,True,0.5546902243403464
+42,217,../data/EBHI-SEG/Adenocarcinoma/image/GTXC2015371-1-400-002.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTXC2015371-1-400-002.png,True,0.5112848047134847
+42,218,../data/EBHI-SEG/Adenocarcinoma/image/GTxc2110176-3-400-004.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTxc2110176-3-400-004.png,True,0.5297753360149122
+42,219,../data/EBHI-SEG/Serrated adenoma/image/GT1815555-4-400-001.png,5,../data/EBHI-SEG/Serrated adenoma/label/GT1815555-4-400-001.png,True,0.31178291264208335
+42,220,../data/EBHI-SEG/High-grade IN/image/GTXC2110128-2-400-005.png,1,../data/EBHI-SEG/High-grade IN/label/GTXC2110128-2-400-005.png,True,0.565983193277311
+42,221,../data/EBHI-SEG/Adenocarcinoma/image/GTxc2014144-3-400-005.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTxc2014144-3-400-005.png,True,0.1405292517380671
+42,222,../data/EBHI-SEG/Adenocarcinoma/image/GT2001837-1-400-005.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GT2001837-1-400-005.png,True,0.4828620604868453
+42,223,../data/EBHI-SEG/Adenocarcinoma/image/GT2013151-1-400-001.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GT2013151-1-400-001.png,True,0.44912531238843273
+42,224,../data/EBHI-SEG/High-grade IN/image/GT2100120-2-400-001.png,1,../data/EBHI-SEG/High-grade IN/label/GT2100120-2-400-001.png,True,0.5007244149800237
+42,225,../data/EBHI-SEG/Adenocarcinoma/image/GT2012118-1-400-006.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GT2012118-1-400-006.png,True,0.6920613273824283
+42,226,../data/EBHI-SEG/Adenocarcinoma/image/GTxc2014144-3-400-004.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTxc2014144-3-400-004.png,True,0.6415673841428677
+42,227,../data/EBHI-SEG/Adenocarcinoma/image/GTXC2110185-1-400-005.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTXC2110185-1-400-005.png,True,0.4885006581309082
+42,228,../data/EBHI-SEG/High-grade IN/image/GT2012508-1-400-002.png,1,../data/EBHI-SEG/High-grade IN/label/GT2012508-1-400-002.png,True,0.5275000564219459
+42,229,../data/EBHI-SEG/Adenocarcinoma/image/GT2014662-2-400-004.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GT2014662-2-400-004.png,True,0.5959069726545326
+42,230,../data/EBHI-SEG/Adenocarcinoma/image/GT2100011-1-400-001.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GT2100011-1-400-001.png,True,0.5108632476266918
+42,231,../data/EBHI-SEG/Low-grade IN/image/GT2001803-1-400-003.png,2,../data/EBHI-SEG/Low-grade IN/label/GT2001803-1-400-003.png,True,0.5038250030551142
+42,232,../data/EBHI-SEG/Low-grade IN/image/GTxc2014093-1-400-005.png,2,../data/EBHI-SEG/Low-grade IN/label/GTxc2014093-1-400-005.png,True,0.43956196285001387
+42,233,../data/EBHI-SEG/Polyp/image/GT2014792-3-400-001.png,4,../data/EBHI-SEG/Polyp/label/GT2014792-3-400-001.png,True,0.5039001220149905
+42,234,../data/EBHI-SEG/Low-grade IN/image/GTXC2015362-3-400-003.png,2,../data/EBHI-SEG/Low-grade IN/label/GTXC2015362-3-400-003.png,True,0.5663529528931381
+42,235,../data/EBHI-SEG/Polyp/image/GTXC2110531-1-400-006.png,4,../data/EBHI-SEG/Polyp/label/GTXC2110531-1-400-006.png,True,0.3249164921021344
+42,236,../data/EBHI-SEG/Polyp/image/GTXC2100773-1-400-003.png,4,../data/EBHI-SEG/Polyp/label/GTXC2100773-1-400-003.png,True,0.5214806557986159
+42,237,../data/EBHI-SEG/Low-grade IN/image/GT2016791-2-400-002.png,2,../data/EBHI-SEG/Low-grade IN/label/GT2016791-2-400-002.png,True,0.5093365324431463
+42,238,../data/EBHI-SEG/Low-grade IN/image/GTxc2012982-1-400-008.png,2,../data/EBHI-SEG/Low-grade IN/label/GTxc2012982-1-400-008.png,True,0.5047429892689868
+42,239,../data/EBHI-SEG/Low-grade IN/image/GTxc2012827-2-400-003.png,2,../data/EBHI-SEG/Low-grade IN/label/GTxc2012827-2-400-003.png,True,0.4333832335329341
+42,240,../data/EBHI-SEG/Normal/image/GT2100275-1-400-003.png,3,../data/EBHI-SEG/Normal/label/GT2100275-1-400-003.png,True,0.33155843442937916
+42,241,../data/EBHI-SEG/High-grade IN/image/GTXC2015413-3-400-003.png,1,../data/EBHI-SEG/High-grade IN/label/GTXC2015413-3-400-003.png,True,0.47712229459970584
+42,242,../data/EBHI-SEG/Low-grade IN/image/GT2014080-1-400-001.png,2,../data/EBHI-SEG/Low-grade IN/label/GT2014080-1-400-001.png,True,0.46133315390481316
+42,243,../data/EBHI-SEG/High-grade IN/image/GTxc2013501-3-400-007.png,1,../data/EBHI-SEG/High-grade IN/label/GTxc2013501-3-400-007.png,True,0.3026157794363478
+42,244,../data/EBHI-SEG/Adenocarcinoma/image/GTxc2012946-2-400-006.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTxc2012946-2-400-006.png,True,0.3042467779421086
+42,245,../data/EBHI-SEG/Adenocarcinoma/image/GTXC2015422-1-400-008.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTXC2015422-1-400-008.png,True,0.6202992584745762
+42,246,../data/EBHI-SEG/Adenocarcinoma/image/GTxc2013980-1-400-002.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTxc2013980-1-400-002.png,True,0.5729475824355589
+42,247,../data/EBHI-SEG/Polyp/image/GTxc2102521-3-400-006.png,4,../data/EBHI-SEG/Polyp/label/GTxc2102521-3-400-006.png,True,0.5264927206433762
+42,248,../data/EBHI-SEG/Polyp/image/GTXC2110529-3-400-008.png,4,../data/EBHI-SEG/Polyp/label/GTXC2110529-3-400-008.png,True,0.4742721496893109
+42,249,../data/EBHI-SEG/Low-grade IN/image/GTxc2014106-1-400-002.png,2,../data/EBHI-SEG/Low-grade IN/label/GTxc2014106-1-400-002.png,True,0.4215511731945586
+42,250,../data/EBHI-SEG/Polyp/image/GT2014783-1-400-001.png,4,../data/EBHI-SEG/Polyp/label/GT2014783-1-400-001.png,True,0.2866817155756208
+42,251,../data/EBHI-SEG/Polyp/image/GT2014780-1-400-001.png,4,../data/EBHI-SEG/Polyp/label/GT2014780-1-400-001.png,True,0.400261917234154
+42,252,../data/EBHI-SEG/Polyp/image/GTxc2102521-3-400-003.png,4,../data/EBHI-SEG/Polyp/label/GTxc2102521-3-400-003.png,True,0.4331200387008818
+42,253,../data/EBHI-SEG/Adenocarcinoma/image/GTxc2012888-1-400-008.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTxc2012888-1-400-008.png,True,0.24930286947917604
+42,254,../data/EBHI-SEG/Polyp/image/GTXC2015335-1-400-004.png,4,../data/EBHI-SEG/Polyp/label/GTXC2015335-1-400-004.png,True,0.44522531827469297
+42,255,../data/EBHI-SEG/Adenocarcinoma/image/GTXC2102280-1-400-006.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTXC2102280-1-400-006.png,True,0.4859691808596918
+42,256,../data/EBHI-SEG/High-grade IN/image/GTXC2015371-1-400-004.png,1,../data/EBHI-SEG/High-grade IN/label/GTXC2015371-1-400-004.png,True,0.3750301568154403
+42,257,../data/EBHI-SEG/Serrated adenoma/image/GT2100092-2-400-001.png,5,../data/EBHI-SEG/Serrated adenoma/label/GT2100092-2-400-001.png,True,0.3381074168797954
+42,258,../data/EBHI-SEG/Low-grade IN/image/GTXC2015362-6-400-002.png,2,../data/EBHI-SEG/Low-grade IN/label/GTXC2015362-6-400-002.png,True,0.5420093410498528
+42,259,../data/EBHI-SEG/Adenocarcinoma/image/GT2014667-2-400-002.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GT2014667-2-400-002.png,True,0.4259059164580314
+42,260,../data/EBHI-SEG/Adenocarcinoma/image/GTxc2013512-2-400-001.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTxc2013512-2-400-001.png,True,0.43722122279997044
+42,261,../data/EBHI-SEG/High-grade IN/image/GT2012436-1-400-002.png,1,../data/EBHI-SEG/High-grade IN/label/GT2012436-1-400-002.png,True,0.4662604559181165
+42,262,../data/EBHI-SEG/Low-grade IN/image/GT2016795-1-400-001.png,2,../data/EBHI-SEG/Low-grade IN/label/GT2016795-1-400-001.png,True,0.41406901525908896
+42,263,../data/EBHI-SEG/Adenocarcinoma/image/GTXC2013386-1-400-008.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTXC2013386-1-400-008.png,True,0.2947624362244898
+42,264,../data/EBHI-SEG/Polyp/image/GTXC2015335-1-400-001.png,4,../data/EBHI-SEG/Polyp/label/GTXC2015335-1-400-001.png,True,0.4550607481105903
+42,265,../data/EBHI-SEG/Polyp/image/GTXC2110491-1-400-006.png,4,../data/EBHI-SEG/Polyp/label/GTXC2110491-1-400-006.png,True,0.3631064582547922
+42,266,../data/EBHI-SEG/High-grade IN/image/GT2016887-1-400-002.png,1,../data/EBHI-SEG/High-grade IN/label/GT2016887-1-400-002.png,True,0.6140689655172413
+42,267,../data/EBHI-SEG/Polyp/image/GTXC2110529-3-400-003.png,4,../data/EBHI-SEG/Polyp/label/GTXC2110529-3-400-003.png,True,0.3366331793405197
+42,268,../data/EBHI-SEG/Polyp/image/GTxc2012796-2-400-003.png,4,../data/EBHI-SEG/Polyp/label/GTxc2012796-2-400-003.png,True,0.5000493802775171
+42,269,../data/EBHI-SEG/Low-grade IN/image/GTxc2012779-1-400-004.png,2,../data/EBHI-SEG/Low-grade IN/label/GTxc2012779-1-400-004.png,True,0.49664271661962195
+42,270,../data/EBHI-SEG/Low-grade IN/image/GTXC2014146-1-400-001.png,2,../data/EBHI-SEG/Low-grade IN/label/GTXC2014146-1-400-001.png,True,0.3278818253758903
+42,271,../data/EBHI-SEG/Low-grade IN/image/GTXC2015407-1-400-002.png,2,../data/EBHI-SEG/Low-grade IN/label/GTXC2015407-1-400-002.png,True,0.48255841850199127
+42,272,../data/EBHI-SEG/Low-grade IN/image/GTxc2012827-1-400-004.png,2,../data/EBHI-SEG/Low-grade IN/label/GTxc2012827-1-400-004.png,True,0.4609859119305967
+42,273,../data/EBHI-SEG/Adenocarcinoma/image/GT2016885-2-400-001.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GT2016885-2-400-001.png,True,0.435726243622449
+42,274,../data/EBHI-SEG/High-grade IN/image/GTXC2015403-1-400-001.png,1,../data/EBHI-SEG/High-grade IN/label/GTXC2015403-1-400-001.png,True,0.48596713021491783
+42,275,../data/EBHI-SEG/Polyp/image/GTxc2012983-1-400-003.png,4,../data/EBHI-SEG/Polyp/label/GTxc2012983-1-400-003.png,True,0.26473041866213504
+42,276,../data/EBHI-SEG/Adenocarcinoma/image/GTXC2015362-9-400-002.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTXC2015362-9-400-002.png,True,0.5227524972253053
+42,277,../data/EBHI-SEG/Adenocarcinoma/image/GTXC2110135-2-400-007.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTXC2110135-2-400-007.png,True,0.28964235949837436
+42,278,../data/EBHI-SEG/Low-grade IN/image/GTxc2012983-2-400-001.png,2,../data/EBHI-SEG/Low-grade IN/label/GTxc2012983-2-400-001.png,True,0.5215946055037158
+42,279,../data/EBHI-SEG/Normal/image/GT2100256-7-400-003.png,3,../data/EBHI-SEG/Normal/label/GT2100256-7-400-003.png,True,0.40698887343532686
+42,280,../data/EBHI-SEG/Adenocarcinoma/image/GTxc2013450-1-400-001.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTxc2013450-1-400-001.png,True,0.41579639668367346
+42,281,../data/EBHI-SEG/Adenocarcinoma/image/GTxc2013512-2-400-015.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTxc2013512-2-400-015.png,True,0.6807429938280719
+42,282,../data/EBHI-SEG/Polyp/image/GTxc2012485-1-400-002.png,4,../data/EBHI-SEG/Polyp/label/GTxc2012485-1-400-002.png,True,0.4417003260499294
+42,283,../data/EBHI-SEG/Low-grade IN/image/GTXC2014165-1-400-005.png,2,../data/EBHI-SEG/Low-grade IN/label/GTXC2014165-1-400-005.png,True,0.5981449106449106
+42,284,../data/EBHI-SEG/Low-grade IN/image/GTxc2012467-1-400-002.png,2,../data/EBHI-SEG/Low-grade IN/label/GTxc2012467-1-400-002.png,True,0.5836987361361877
+42,285,../data/EBHI-SEG/Adenocarcinoma/image/GTXC2013386-1-400-007.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTXC2013386-1-400-007.png,True,0.1692183560262229
+42,286,../data/EBHI-SEG/Adenocarcinoma/image/GT2012324-1-400-014.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GT2012324-1-400-014.png,True,0.6402063901567772
+42,287,../data/EBHI-SEG/Polyp/image/GTxc2014103-1-400-003.png,4,../data/EBHI-SEG/Polyp/label/GTxc2014103-1-400-003.png,True,0.44230138920404405
+42,288,../data/EBHI-SEG/Polyp/image/GTXC2100474-1-400-001.png,4,../data/EBHI-SEG/Polyp/label/GTXC2100474-1-400-001.png,True,0.38069548919788265
+42,289,../data/EBHI-SEG/Adenocarcinoma/image/GTXC2110135-2-400-004.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTXC2110135-2-400-004.png,True,0.43136601089251975
+42,290,../data/EBHI-SEG/High-grade IN/image/GTXC2110135-3-400-001.png,1,../data/EBHI-SEG/High-grade IN/label/GTXC2110135-3-400-001.png,True,0.5432033545745699
+42,291,../data/EBHI-SEG/Low-grade IN/image/GT2018275-1-400-001.png,2,../data/EBHI-SEG/Low-grade IN/label/GT2018275-1-400-001.png,True,0.5367353723404256
+42,292,../data/EBHI-SEG/Adenocarcinoma/image/GT2001849-1-400-004.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GT2001849-1-400-004.png,True,0.40251651462724125
+42,293,../data/EBHI-SEG/Polyp/image/GTXC2015335-5-400-003.png,4,../data/EBHI-SEG/Polyp/label/GTXC2015335-5-400-003.png,True,0.4565600370885489
+42,294,../data/EBHI-SEG/Polyp/image/GT2016847-1-400-001.png,4,../data/EBHI-SEG/Polyp/label/GT2016847-1-400-001.png,True,0.31868725035085826
+42,295,../data/EBHI-SEG/Low-grade IN/image/GTxc2012967-1-400-008.png,2,../data/EBHI-SEG/Low-grade IN/label/GTxc2012967-1-400-008.png,True,0.729978580767198
+42,296,../data/EBHI-SEG/High-grade IN/image/GT2018006-1-400-001.png,1,../data/EBHI-SEG/High-grade IN/label/GT2018006-1-400-001.png,True,0.2757095466273498
+42,297,../data/EBHI-SEG/Low-grade IN/image/GTxc2013400-2-400-006.png,2,../data/EBHI-SEG/Low-grade IN/label/GTxc2013400-2-400-006.png,True,0.38389140690037926
+42,298,../data/EBHI-SEG/High-grade IN/image/GTDC2102641-1-400-004.png,1,../data/EBHI-SEG/High-grade IN/label/GTDC2102641-1-400-004.png,True,0.467200089213527
+42,299,../data/EBHI-SEG/Adenocarcinoma/image/GTXC2015422-1-400-005.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTXC2015422-1-400-005.png,True,0.16768716345318743
+42,300,../data/EBHI-SEG/Adenocarcinoma/image/GTXC2014065-1-400-004.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTXC2014065-1-400-004.png,True,0.5693117805535146
+42,301,../data/EBHI-SEG/High-grade IN/image/GT2012508-1-400-004.png,1,../data/EBHI-SEG/High-grade IN/label/GT2012508-1-400-004.png,True,0.48539566898339553
+42,302,../data/EBHI-SEG/Low-grade IN/image/GT2016860-1-400-001.png,2,../data/EBHI-SEG/Low-grade IN/label/GT2016860-1-400-001.png,True,0.5789080992075744
+42,303,../data/EBHI-SEG/Polyp/image/GTXC2100772-1-400-006.png,4,../data/EBHI-SEG/Polyp/label/GTXC2100772-1-400-006.png,True,0.438446701083565
+42,304,../data/EBHI-SEG/Adenocarcinoma/image/GTxc2014131-1-400-005.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTxc2014131-1-400-005.png,True,0.5122830354652534
+42,305,../data/EBHI-SEG/Adenocarcinoma/image/GTxc2013512-1-400-005.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTxc2013512-1-400-005.png,True,0.28762187901539393
+42,306,../data/EBHI-SEG/Polyp/image/GTXC2110529-3-400-001.png,4,../data/EBHI-SEG/Polyp/label/GTXC2110529-3-400-001.png,True,0.4749726726179632
+42,307,../data/EBHI-SEG/Serrated adenoma/image/GTXC2100732-1-400-002.png,5,../data/EBHI-SEG/Serrated adenoma/label/GTXC2100732-1-400-002.png,True,0.5191437900592575
+42,308,../data/EBHI-SEG/Polyp/image/GTxc2014077-1-400-002.png,4,../data/EBHI-SEG/Polyp/label/GTxc2014077-1-400-002.png,True,0.41502593161736456
+42,309,../data/EBHI-SEG/Adenocarcinoma/image/GTxc2012962-1-400-008.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTxc2012962-1-400-008.png,True,0.4547434919943361
+42,310,../data/EBHI-SEG/Low-grade IN/image/GTXC2015381-1-400-001.png,2,../data/EBHI-SEG/Low-grade IN/label/GTXC2015381-1-400-001.png,True,0.35242516173836763
+42,311,../data/EBHI-SEG/Adenocarcinoma/image/GTxc2012946-2-400-010.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTxc2012946-2-400-010.png,True,0.14245023791971048
+42,312,../data/EBHI-SEG/High-grade IN/image/GTxc2013501-3-400-002.png,1,../data/EBHI-SEG/High-grade IN/label/GTxc2013501-3-400-002.png,True,0.5207050742012831
+42,313,../data/EBHI-SEG/Adenocarcinoma/image/GT2100111-1-400-004.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GT2100111-1-400-004.png,True,0.2833666833416708
+42,314,../data/EBHI-SEG/Adenocarcinoma/image/GTxc2012990-1-400-005.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTxc2012990-1-400-005.png,True,0.5538845500118333
+42,315,../data/EBHI-SEG/Adenocarcinoma/image/GTxc2012436-2-400-001.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTxc2012436-2-400-001.png,True,0.4607588424437299
+42,316,../data/EBHI-SEG/Low-grade IN/image/GT2014736-1-400-001.png,2,../data/EBHI-SEG/Low-grade IN/label/GT2014736-1-400-001.png,True,0.5917290019234879
+42,317,../data/EBHI-SEG/Low-grade IN/image/GTxc2014094-2-400-002.png,2,../data/EBHI-SEG/Low-grade IN/label/GTxc2014094-2-400-002.png,True,0.47144638697381114
+42,318,../data/EBHI-SEG/Polyp/image/GTXC2013066-1-400-002.png,4,../data/EBHI-SEG/Polyp/label/GTXC2013066-1-400-002.png,True,0.3227854799449677
+42,319,../data/EBHI-SEG/Polyp/image/GTxc2013942-1-400-001.png,4,../data/EBHI-SEG/Polyp/label/GTxc2013942-1-400-001.png,True,0.25003619097252383
+42,320,../data/EBHI-SEG/Polyp/image/GT2001817-1-400-002.png,4,../data/EBHI-SEG/Polyp/label/GT2001817-1-400-002.png,True,0.31305794728223546
+42,321,../data/EBHI-SEG/Polyp/image/GTXC2110530-1-400-001.png,4,../data/EBHI-SEG/Polyp/label/GTXC2110530-1-400-001.png,True,0.44665095064828575
+42,322,../data/EBHI-SEG/Low-grade IN/image/GT2016791-2-400-001.png,2,../data/EBHI-SEG/Low-grade IN/label/GT2016791-2-400-001.png,True,0.6434738669068699
+42,323,../data/EBHI-SEG/Polyp/image/GTXC2100737-1-400-003.png,4,../data/EBHI-SEG/Polyp/label/GTXC2100737-1-400-003.png,True,0.20681509775343015
+42,324,../data/EBHI-SEG/Polyp/image/GT2014792-2-400-002.png,4,../data/EBHI-SEG/Polyp/label/GT2014792-2-400-002.png,True,0.3439818200814962
+42,325,../data/EBHI-SEG/Adenocarcinoma/image/GT2012358-2-400-011.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GT2012358-2-400-011.png,True,0.5335753176043557
+42,326,../data/EBHI-SEG/Polyp/image/GTXC2015335-7-400-001.png,4,../data/EBHI-SEG/Polyp/label/GTXC2015335-7-400-001.png,True,0.35693057812862783
+42,327,../data/EBHI-SEG/Polyp/image/GTxc2013509-1-400-001.png,4,../data/EBHI-SEG/Polyp/label/GTxc2013509-1-400-001.png,True,0.33964342658356284
+42,328,../data/EBHI-SEG/Adenocarcinoma/image/GTXC2013386-1-400-003.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTXC2013386-1-400-003.png,True,0.31467828418230565
+42,329,../data/EBHI-SEG/Adenocarcinoma/image/GTxc2013512-2-400-014.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTxc2013512-2-400-014.png,True,0.543501074409075
+42,330,../data/EBHI-SEG/Adenocarcinoma/image/GT2014667-1-400-003.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GT2014667-1-400-003.png,True,0.3526319044968145
+42,331,../data/EBHI-SEG/High-grade IN/image/GT2012149-3-400-005.png,1,../data/EBHI-SEG/High-grade IN/label/GT2012149-3-400-005.png,True,0.34552229379815586
+42,332,../data/EBHI-SEG/Low-grade IN/image/GT2014780-2-400-002.png,2,../data/EBHI-SEG/Low-grade IN/label/GT2014780-2-400-002.png,True,0.4226044226044226
+42,333,../data/EBHI-SEG/Polyp/image/GTxc2012970-1-400-002.png,4,../data/EBHI-SEG/Polyp/label/GTxc2012970-1-400-002.png,True,0.4604839219154716
+42,334,../data/EBHI-SEG/Adenocarcinoma/image/GTxc2012962-1-400-006.png,0,../data/EBHI-SEG/Adenocarcinoma/label/GTxc2012962-1-400-006.png,True,0.5773280731132745

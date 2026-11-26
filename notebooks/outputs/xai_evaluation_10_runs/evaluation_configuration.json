@@ -1,0 +1,35 @@
+{
+  "evaluation_seed": 42,
+  "model_seeds": [
+    42,
+    123,
+    2024,
+    3407,
+    9999,
+    7,
+    77,
+    314,
+    2025,
+    8888
+  ],
+  "number_of_test_images": 335,
+  "heatmap_threshold": 0.5,
+  "consistency_perturbations": [
+    "hflip",
+    "vflip",
+    "rotate_10",
+    "rotate_minus_10",
+    "noise"
+  ],
+  "deletion_ratios": [
+    0.1,
+    0.2,
+    0.3,
+    0.4,
+    0.5,
+    0.6,
+    0.7,
+    0.8,
+    0.9
+  ]
+}
