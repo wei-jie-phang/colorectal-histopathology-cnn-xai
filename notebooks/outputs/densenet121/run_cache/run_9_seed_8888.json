@@ -1,0 +1,366 @@
+{
+  "run_idx": 9,
+  "seed": 8888,
+  "class_names": [
+    "Adenocarcinoma",
+    "High-grade IN",
+    "Low-grade IN",
+    "Normal",
+    "Polyp",
+    "Serrated adenoma"
+  ],
+  "val_stage1": {
+    "best_score": 0.8529434536927002,
+    "best_accuracy": 0.8802395209580839,
+    "best_macro_f1": 0.8256473864273165
+  },
+  "val_stage2": {
+    "best_score": 0.8886219485244793,
+    "best_accuracy": 0.907185628742515,
+    "best_macro_f1": 0.8700582683064435
+  },
+  "internal_normal": {
+    "loss": 0.9268138152449878,
+    "accuracy": 0.8626865671641791,
+    "precision_macro": 0.7480950896799424,
+    "recall_macro": 0.8025178850883076,
+    "f1_macro": 0.7698988141957107,
+    "macro_roc_auc": 0.9719807573943774,
+    "weighted_roc_auc": 0.9803658426034485
+  },
+  "internal_normal_extra": {
+    "per_class_roc_auc": {
+      "Adenocarcinoma": 0.9927131782945737,
+      "High-grade IN": 0.960679385760819,
+      "Low-grade IN": 0.9745031380753139,
+      "Normal": 0.9324045407636739,
+      "Polyp": 0.982287665386257,
+      "Serrated adenoma": 0.9892966360856269
+    },
+    "confusion_matrix": [
+      [
+        109,
+        9,
+        1,
+        1,
+        0,
+        0
+      ],
+      [
+        4,
+        20,
+        4,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        2,
+        84,
+        0,
+        7,
+        3
+      ],
+      [
+        0,
+        0,
+        0,
+        10,
+        2,
+        0
+      ],
+      [
+        0,
+        0,
+        2,
+        7,
+        61,
+        1
+      ],
+      [
+        2,
+        0,
+        1,
+        0,
+        0,
+        5
+      ]
+    ]
+  },
+  "internal_tta": {
+    "loss": 1.0157779890877097,
+    "accuracy": 0.8895522388059701,
+    "precision_macro": 0.8081436280086955,
+    "recall_macro": 0.870736921529175,
+    "f1_macro": 0.8340680456686046,
+    "macro_roc_auc": 0.9814104138281236,
+    "weighted_roc_auc": 0.9861694461408085
+  },
+  "internal_tta_extra": {
+    "per_class_roc_auc": {
+      "Adenocarcinoma": 0.9966279069767441,
+      "High-grade IN": 0.9716147045137273,
+      "Low-grade IN": 0.9796896792189679,
+      "Normal": 0.9605263157894737,
+      "Polyp": 0.9865023474178404,
+      "Serrated adenoma": 0.9935015290519879
+    },
+    "confusion_matrix": [
+      [
+        111,
+        8,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        3,
+        23,
+        2,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        4,
+        82,
+        0,
+        7,
+        3
+      ],
+      [
+        0,
+        0,
+        0,
+        10,
+        2,
+        0
+      ],
+      [
+        0,
+        0,
+        2,
+        3,
+        65,
+        1
+      ],
+      [
+        1,
+        0,
+        0,
+        0,
+        0,
+        7
+      ]
+    ]
+  },
+  "internal_mcnemar": {
+    "contingency_table": [
+      [
+        286,
+        3
+      ],
+      [
+        12,
+        34
+      ]
+    ],
+    "correct_only_without_tta": 3,
+    "correct_only_with_tta": 12,
+    "p_value": 0.03515625
+  },
+  "external_normal": {
+    "accuracy": 0.575,
+    "precision": 0.831002134591619,
+    "recall": 0.575,
+    "macro_f1": 0.6712095056090253,
+    "classification_report_external_only": "                precision    recall  f1-score   support\n\nAdenocarcinoma     0.9372    0.7760    0.8490       500\n        Normal     0.7248    0.3740    0.4934       500\n\n     micro avg     0.8557    0.5750    0.6878      1000\n     macro avg     0.8310    0.5750    0.6712      1000\n  weighted avg     0.8310    0.5750    0.6712      1000\n",
+    "confusion_matrix_external_only": [
+      [
+        388,
+        71
+      ],
+      [
+        26,
+        187
+      ]
+    ],
+    "confusion_matrix_full_6_class": [
+      [
+        388,
+        27,
+        0,
+        71,
+        5,
+        9
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        26,
+        42,
+        0,
+        187,
+        222,
+        23
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "confusion_matrix_external_with_other": [
+      [
+        388,
+        71,
+        41
+      ],
+      [
+        26,
+        187,
+        287
+      ]
+    ],
+    "confusion_matrix_external_with_other_columns": [
+      "Adenocarcinoma",
+      "Normal",
+      "Other EBHI-SEG classes"
+    ],
+    "confusion_matrix_external_with_other_rows": [
+      "Adenocarcinoma",
+      "Normal"
+    ]
+  },
+  "external_tta": {
+    "accuracy": 0.651,
+    "precision": 0.8808103661044837,
+    "recall": 0.651,
+    "macro_f1": 0.7403850828997909,
+    "classification_report_external_only": "                precision    recall  f1-score   support\n\nAdenocarcinoma     0.9434    0.8340    0.8854       500\n        Normal     0.8182    0.4680    0.5954       500\n\n     micro avg     0.8942    0.6510    0.7535      1000\n     macro avg     0.8808    0.6510    0.7404      1000\n  weighted avg     0.8808    0.6510    0.7404      1000\n",
+    "confusion_matrix_external_only": [
+      [
+        417,
+        52
+      ],
+      [
+        25,
+        234
+      ]
+    ],
+    "confusion_matrix_full_6_class": [
+      [
+        417,
+        26,
+        0,
+        52,
+        1,
+        4
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        25,
+        44,
+        0,
+        234,
+        187,
+        10
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "confusion_matrix_external_with_other": [
+      [
+        417,
+        52,
+        31
+      ],
+      [
+        25,
+        234,
+        241
+      ]
+    ],
+    "confusion_matrix_external_with_other_columns": [
+      "Adenocarcinoma",
+      "Normal",
+      "Other EBHI-SEG classes"
+    ],
+    "confusion_matrix_external_with_other_rows": [
+      "Adenocarcinoma",
+      "Normal"
+    ]
+  },
+  "external_mcnemar": {
+    "contingency_table": [
+      [
+        550,
+        25
+      ],
+      [
+        101,
+        324
+      ]
+    ],
+    "correct_only_without_tta": 25,
+    "correct_only_with_tta": 101,
+    "p_value": 5.027865916342063e-12
+  }
+}
